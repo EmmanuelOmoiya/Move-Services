@@ -1,0 +1,228 @@
+*{
+    margin: 0;
+}
+
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+header{
+    background-color: rgb(88, 151, 233);
+    padding: 10px;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+    text-align: center;
+}
+
+.logo{
+    text-transform: uppercase;
+    margin-left: 15%;
+}
+
+.ullinks{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    margin-left: -50%;
+    padding-top: 10px;
+}
+
+.links{
+    text-decoration: none;
+    color: #fff;
+    margin-right: 30px;
+    font-size: 13px;
+}
+
+.content-h{
+    padding: 10px;
+    padding-left: 15%;
+    padding-top: 110px;
+    padding-bottom: 150px;
+    background-color: rgb(88, 151, 233);
+    height: 320px;
+}
+
+.cont{
+    float: left;
+}
+
+.hhh{
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 40px;
+}
+
+h2{
+    font-size: 34px;
+}
+
+.h{
+    color: #fff;
+    margin-left: 30px;
+}
+
+.contact-btn{
+    border: none;
+    height: 40px;
+    width: 120px;
+    border-radius: 40px;
+    color: rgb(88, 151, 233);
+}
+
+.ree{
+    width: 400px;
+}
+
+ul{
+    margin-left: -20px;
+}
+
+img{
+    float: right;
+}
+
+.quote-c{
+    padding: 20px;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    margin-left: 20%;
+    margin-right: 30%;
+    height: 90px;
+    text-align: left;
+}
+
+.left{
+    text-align: right;
+}
+
+.quote-b{
+    height: 70px;
+    width: 5px;
+    background-color: #ccc;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+.quote{
+    margin-left: 20px;
+}
+
+.sec1{
+    padding: 20px;
+    text-align: center;
+    padding-bottom: 70px;
+}
+
+.c{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 15%;
+    margin-right: 17%;
+    margin-top: 70px;
+    text-align: left;
+}
+
+.chee{
+    width: 400px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    box-shadow:  5px 7px 10px 4px #ccc;
+}
+
+i{
+    color: #000;
+    background-color: #000;
+}
+
+.provision{
+    color: rgb(88, 151, 233);
+}
+
+.last{
+    height: 3px;
+    width: 53px;
+    margin-left: 48%;
+    background-color: rgb(88, 151, 233);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.service{
+    margin-top: 15%;
+}
+
+.software-testing{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    padding-left: 20px;
+    background-color: rgb(241, 240, 240);
+}
+
+.sof{
+    width: 70px;
+    height: 4px;
+    background-color: rgb(88, 151, 233);
+}
+
+#ee{
+    margin-right: 20%;
+    width: 400px;
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
+
+#test{
+    padding-top: 30%;
+}
+
+#rr{
+    margin-left: 15%;
+    transition: .5s ease-in-out;
+}
+
+.read{
+    border: none;
+    height: 40px;
+    width: 120px;
+    border-radius: 40px;
+    color: #fff;
+    background-color: rgb(88, 151, 233);
+}
+
+#ff{
+    background-color: #fff;
+}
+
+#gg{
+    margin-left: 15%;
+    padding-top: 5%;
+    margin-bottom: 5%;
+}
+
+.rff{
+    margin-top: 10%;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+.footer a{
+    color: rgb(88, 151, 233);
+}
+
+.footer a:hover{
+    color: #000;
+}
